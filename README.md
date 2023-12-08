@@ -1,2 +1,1 @@
-"# AutoMergeBotSandbox" 
-adsasd
+# auto
